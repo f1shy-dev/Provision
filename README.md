@@ -6,6 +6,10 @@ English ⋅ [Français](LISEZMOI.md)
 > Don't use your main Apple account! Prefer a secondary Apple account.  \
 > I am NOT responsible if something happens with your Apple account.
 
+## Quick-host buttons
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=docker&image=docker.io/dadoum/anisette-server:latest&name=anisette-server&ports=6969;http;/&env=[PORT]=6969)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/b39e8-?referralCode=FLmM37)
+
 ## What is this ?
 
 Provision is a set of tools interracting with Apple servers on Linux.
